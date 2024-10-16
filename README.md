@@ -1,9 +1,10 @@
 Project: La Madriguera 🌿💻
-Description
+
+Description:
 La Madriguera is an outdoor recreation park that aims to integrate blockchain adoption with a focus on sustainability. 
 This project combines nature 🌳 with technological innovation, allowing visitors to interact with and learn about the use of blockchain.
 
-Main Features
+Main Features:
 🌱 Connection with nature: La Madriguera is a space that promotes environmental conservation with more than 1,500 trees planted.
 🔗 Blockchain Integration: We implement blockchain technology to enhance the visitor experience through decentralized verification and payments.
 
