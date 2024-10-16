@@ -13,10 +13,13 @@ Prerequisites:
 Internet connection.
 Instructions:
 
-Download and install Coinbase Wallet.
-Create your digital wallet.
-Send your wallet address via WhatsApp to La Madriguera's public number to receive the entry pass.
+1. Download and install Coinbase Wallet.
+
+2. Create your digital wallet.
+
+3. Send your wallet address via WhatsApp to La Madriguera's public number to receive the entry pass.
 Usage
+
 First Phase: Download the wallet and receive the entry pass as an NFT.
 Second Phase: Participate in our activities and transactions using USDC.
 Third Phase: Pay with USDC and get special discounts 🎉
