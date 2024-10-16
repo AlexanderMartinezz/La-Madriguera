@@ -9,6 +9,7 @@ Main Features:
 🔗 Blockchain Integration: We implement blockchain technology to enhance the visitor experience through decentralized verification and payments.
 
 Installation Prerequisites:
+
   Internet connection.
   
 Instructions:
