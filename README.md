@@ -18,12 +18,12 @@ Instructions:
 2. Create your digital wallet.
 
 3. Send your wallet address via WhatsApp to La Madriguera's public number to receive the entry pass.
-Usage
 
+Usage
 project adoption phases
 
-First Phase: Download the wallet and receive the entry pass as an NFT.
+  First Phase: Download the wallet and receive the entry pass as an NFT.
 
-Second Phase: Participate in our activities and transactions using USDC.
+  Second Phase: Participate in our activities and transactions using USDC.
 
-Third Phase: Pay with USDC and get special discounts 🎉
+  Third Phase: Pay with USDC and get special discounts 🎉
