@@ -8,13 +8,13 @@ Main Features:
 🌱 Connection with nature: La Madriguera is a space that promotes environmental conservation with more than 1,500 trees planted.
 🔗 Blockchain Integration: We implement blockchain technology to enhance the visitor experience through decentralized verification and payments.
 
-Installation 
+🔵Installation 
 
 1. Prerequisites:
 
   ✅Internet connection.
   
-2.Instructions:
+2. Instructions:
   
   ✅Download and install Coinbase Wallet.
   
@@ -22,7 +22,7 @@ Installation
   
   ✅Send your wallet address via WhatsApp to La Madriguera's public number to receive the entry pass.
 
-Usage
+🔵Usage
 
 project adoption phases
 
