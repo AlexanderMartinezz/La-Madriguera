@@ -10,12 +10,13 @@ Main Features:
 
 Installation Prerequisites:
 
-  Internet connection.
+  🔵Internet connection.
   
-Instructions:
-  1. Download and install Coinbase Wallet.
-  2. Create your digital wallet.
-  3. Send your wallet address via WhatsApp to La Madriguera's public number to receive the entry pass.
+  Instructions:
+  
+  🔵Download and install Coinbase Wallet.
+  🔵Create your digital wallet.
+  🔵Send your wallet address via WhatsApp to La Madriguera's public number to receive the entry pass.
 
 Usage
 project adoption phases
