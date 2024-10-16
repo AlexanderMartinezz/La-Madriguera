@@ -1,4 +1,4 @@
-Project: La Madriguera 🌿💻
+Project: La Madriguera 🌳🔗📱
 
 Description:
 La Madriguera is an outdoor recreation park that aims to integrate blockchain adoption with a focus on sustainability. 
@@ -15,14 +15,16 @@ Installation Prerequisites:
   Instructions:
   
   🔵Download and install Coinbase Wallet.
+  
   🔵Create your digital wallet.
+  
   🔵Send your wallet address via WhatsApp to La Madriguera's public number to receive the entry pass.
 
 Usage
 project adoption phases
 
-  First Phase: Download the wallet and receive the entry pass as an NFT.
+🔵First Phase: Download the wallet and receive the entry pass as an NFT.
 
-  Second Phase: Participate in our activities and transactions using USDC.
+🔵Second Phase: Participate in our activities and transactions using USDC.
 
-  Third Phase: Pay with USDC and get special discounts 🎉
+🔵Third Phase: Pay with USDC and get special discounts 🎉
